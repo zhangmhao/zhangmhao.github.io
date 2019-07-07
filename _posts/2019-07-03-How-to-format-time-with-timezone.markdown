@@ -2,7 +2,8 @@
 layout: post
 title:  "How to format time with timezone?"
 date:   2019-07-03 19:51:05 +0800
-categories: English,Javascript
+categories: Frontend
+tags: English, Javascript
 ---
 
 One of my recent projects need to launch at various countries with different timezone, And it has a calendar to show users checkin footprint which related to date format issue.
